@@ -36,6 +36,9 @@ setup(
         "gevent-websocket",
         "websocket-client",
         "python-dotenv",
+        "torch",
+        "torchvision",
+        "torchaudio",
     ],
     extras_require={
         "development": [
